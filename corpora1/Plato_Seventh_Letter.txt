@@ -1,19 +1,11 @@
 
-<BASE HREF="http://classics.mit.edu/Plato/seventh_letter.1b.txt"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s <a href="http://www.google.com/intl/en_extra/help/features.html#cached">cache</a> of <A HREF="http://classics.mit.edu/Plato/seventh_letter.1b.txt"><font color=blue>classics.mit.edu/Plato/seventh_letter.1b.txt</font></a>.<br>
-<b><font color=#0039b6>G</font><font color=#c41200>o</font><font color=#f3c518>o</font><font color=#0039b6>g</font><font color=#30a72f>l</font><font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
-The page may have changed since that time.  Click here for the <A HREF="http://classics.mit.edu/Plato/seventh_letter.1b.txt"><font color=blue>current page</font></a> without highlighting.</font><br><br><center><font size=-2 color=black><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr></table></td></tr></table><hr>
-<html><body><pre>
-Provided by The Internet Classics Archive.
-See bottom for copyright. Available online at
-    http://classics.mit.edu//Plato/seventh_letter.html
 
-The Seventh Letter
+PThe Seventh Letter
 By Plato
 
 
-Translated by J. Harward
 
-Plato TO THE RELATIVES AND FRIENDS OF DION. WELFARE. 
+TO THE RELATIVES AND FRIENDS OF DION. WELFARE. 
 
 You write to me that I must consider your views the same as those
 of Dion, and you urge me to aid your cause so far as I can in word
