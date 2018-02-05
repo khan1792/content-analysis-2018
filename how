@@ -1,0 +1,265 @@
+[33mcommit b97edc437cce62a7b3264c693fa4383aeed8d6d5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 4de7925 0bef7f7
+Author: Kanyao Han <khan17@uchicago.edu>
+Date:   Thu Feb 1 15:47:11 2018 -0600
+
+    Merge branch 'master' of https://github.com/Computational-Content-Analysis-2018/Content-Analysis
+
+[33mcommit 0bef7f72dfce907801957776fa48501d00a04d9f[m[33m ([m[1;31mbase/master[m[33m)[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Thu Feb 1 11:21:32 2018 -0600
+
+    Adding updated sup
+
+[33mcommit 4de7925415c363bd1d0b2d7714ca77dc650703d6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kanyao Han <khan17@uchicago.edu>
+Date:   Thu Feb 1 01:37:27 2018 -0600
+
+    'final'
+
+[33mcommit 2c2a031d582a51871d39496a6bf39e0bd1be0166[m
+Merge: fd8a954 30e8f57
+Author: Kanyao Han <khan17@uchicago.edu>
+Date:   Wed Jan 31 21:51:58 2018 -0600
+
+    Merge branch 'master' of https://github.com/Computational-Content-Analysis-2018/Content-Analysis
+
+[33mcommit 30e8f57190c0c16238373362a6bed465d403d1aa[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 31 18:02:39 2018 -0600
+
+    Adding week 5
+
+[33mcommit fd8a95449bcd24ac855fb7924433949142bddec9[m
+Merge: 99f4b11 5a75d67
+Author: Kanyao Han <khan17@uchicago.edu>
+Date:   Tue Jan 30 21:21:09 2018 -0600
+
+    Merge branch 'master' of https://github.com/Computational-Content-Analysis-2018/Content-Analysis
+
+[33mcommit 5a75d67f7f25cf14399b8a5af400474b57824014[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Mon Jan 29 12:16:54 2018 -0600
+
+    Added stuff for supplement
+
+[33mcommit 8bd792e9d0ea1b4a4c56a28df0f0ee87d633fe17[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Mon Jan 29 12:14:19 2018 -0600
+
+    Added note about data
+
+[33mcommit 4d802d42e3d9c39242363038c4088a10c9c54144[m
+Author: linzhuo li <linzhuoli@uchicago.edu>
+Date:   Mon Jan 29 10:41:23 2018 -0600
+
+    add supplemental hw
+
+[33mcommit cd96357f760f7f2c85bb87eca910740fee3cc8f6[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Mon Jan 29 02:56:32 2018 -0600
+
+    Fixed this
+
+[33mcommit 99f4b1144d90f2903e9523cb141ddbb6b1acc00d[m
+Merge: f223c2a 990d27b
+Author: Kanyao Han <khan17@uchicago.edu>
+Date:   Sat Jan 27 22:57:40 2018 -0600
+
+    Merge branch 'master' of https://github.com/Computational-Content-Analysis-2018/Content-Analysis
+
+[33mcommit 990d27bf1cf6ab0b10869d3c79f1e3bd24148b91[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Thu Jan 25 11:18:26 2018 -0600
+
+    Adding another data file
+
+[33mcommit f223c2aa0f999e326b9e8aef0145a551df2736ac[m
+Author: Kanyao Han <khan17@uchicago.edu>
+Date:   Thu Jan 25 01:25:30 2018 -0600
+
+    'PS3'
+
+[33mcommit 8e58c6062085044037c2092b2e7696c27a82df85[m
+Merge: 9ae0a43 aad1903
+Author: Kanyao Han <khan17@uchicago.edu>
+Date:   Wed Jan 24 20:47:23 2018 -0600
+
+    Merge branch 'master' of https://github.com/Computational-Content-Analysis-2018/Content-Analysis
+
+[33mcommit aad190384ee869db8a9307f8a78f6ab367a7ab5f[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 24 14:34:27 2018 -0600
+
+    Adding week 4
+
+[33mcommit f96c460bae457f55a40493342860db84e5b18b18[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 24 13:55:07 2018 -0600
+
+    Going to put these on canvas instead
+
+[33mcommit 4347e660d17732e41e2696e8539d1ab905477fb1[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 24 03:33:22 2018 -0600
+
+    Adding this again
+
+[33mcommit ce337ffe737fcca351f6ef4491fa3a8e4d97abfc[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 24 03:32:49 2018 -0600
+
+    Trying again (again)
+
+[33mcommit 0fc5b5f4b342bbda230f9877e73763b40bec93da[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 24 02:46:45 2018 -0600
+
+    Pushing another large file
+
+[33mcommit 60d7b732c9c4601f0df6663578af8e9eb0ae2223[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 24 02:46:24 2018 -0600
+
+    Trying again
+
+[33mcommit a5192cb3c405469b0d91796781718ee65463343c[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 24 02:42:44 2018 -0600
+
+    Adding another large file
+
+[33mcommit e3b92292abfee781715833b542d9d93ed9b75b4e[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 24 02:27:56 2018 -0600
+
+    Adding a large data file
+
+[33mcommit 40340ba900eb586200b9ab469ea2d443055d6fe7[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Fri Jan 19 16:17:35 2018 -0600
+
+    added ignores for nltk and sklearn
+
+[33mcommit 9ae0a438c5faedabd27c459d87c31c30f3531432[m
+Merge: 3a195d1 49addb6
+Author: Kanyao Han <khan17@uchicago.edu>
+Date:   Thu Jan 18 02:14:33 2018 -0600
+
+    Merge branch 'master' of https://github.com/Computational-Content-Analysis-2018/Content-Analysis
+
+[33mcommit 49addb693f6db6e9f9597c5ea518ea35f8835ad4[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Thu Jan 18 02:03:41 2018 -0600
+
+    Small update to 3
+
+[33mcommit 3a195d1e229d164c27000a497ac9fba0fc9cc673[m
+Author: Kanyao Han <khan17@uchicago.edu>
+Date:   Thu Jan 18 00:58:04 2018 -0600
+
+    'final'
+
+[33mcommit e36fa06d4591320c72b75e34e56a06e856e72500[m
+Merge: 55ddbce 35db645
+Author: Kanyao Han <khan17@uchicago.edu>
+Date:   Wed Jan 17 23:09:42 2018 -0600
+
+    Merge branch 'master' of https://github.com/Computational-Content-Analysis-2018/Content-Analysis
+
+[33mcommit 35db6458899d4c1a911e2cd976e69fd1d3df696d[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 17 00:37:22 2018 -0600
+
+    Adding week 3
+
+[33mcommit 55ddbcee2aa0538d4d0b571949dc3d8e44b9bc8e[m
+Author: Kanyao Han <khan17@midway-login1.rcc.local>
+Date:   Wed Jan 10 22:47:16 2018 -0600
+
+    final
+
+[33mcommit 65ee7abebe021c0f57d130ff84954cb824aa3af9[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 10 03:41:02 2018 -0600
+
+    Adding NB2 update
+
+[33mcommit 278355f7202341e7073d6957d891204008c0dc0c[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 10 02:17:13 2018 -0600
+
+    Pushing Notebook 2
+
+[33mcommit 00b2f946ca1f64b3fde895a5e411c7439e1aaf19[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Tue Jan 9 20:27:35 2018 -0600
+
+    Adding nb 2
+
+[33mcommit 0c029e73c3c66d9e42ee129255db6099934aba4e[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Fri Jan 5 12:12:10 2018 -0600
+
+    Added bulk text example
+
+[33mcommit e1b09301c4ad66425dc6c85e2e6e1df9c852b3a5[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Fri Jan 5 11:40:49 2018 -0600
+
+    Added mac ignores
+
+[33mcommit 69a1c8d33e4a4fbe0a5d57a70390c8e5985e2798[m
+Author: Reid <reidmcy@uchicago.edu>
+Date:   Fri Jan 5 03:58:50 2018 -0600
+
+    Added questions
+
+[33mcommit 1475c6cbfc046763038ca058ebec2e9465f33b83[m
+Merge: 8a85c62 bccedfa
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Thu Jan 4 12:37:14 2018 -0600
+
+    Merge branch 'master' of https://github.com/Computational-Content-Analysis-2018/Content-Analysis
+
+[33mcommit 8a85c62da9a0c195fc3263b91f2ae4492e38502b[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Thu Jan 4 12:36:56 2018 -0600
+
+    Updated for nb_Sessions
+
+[33mcommit bccedfae3c9d483683053daa2da1b623254936b5[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Thu Jan 4 10:11:31 2018 -0600
+
+    updating for server
+
+[33mcommit 7799e1a34b86647984e090ce823387f54ebd3995[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 3 08:27:54 2018 -0600
+
+    Cleaning up
+
+[33mcommit 2bcfca76e01d4a7cfe0ea5e09abfb256008bdb60[m
+Author: Reid McIlroy-Young <reidmcy@users.noreply.github.com>
+Date:   Thu Jan 4 00:27:19 2018 +1000
+
+    data file
+
+[33mcommit 8475c3ae91467a65c5f27db4eb31eb56bd0e970b[m
+Author: Reid McIlroy-Young <reidmcy@users.noreply.github.com>
+Date:   Thu Jan 4 00:26:57 2018 +1000
+
+    Last Year's notebook
+
+[33mcommit d2e357413674043c43b25430968f60b4a62cf993[m
+Author: Reid McIlroy-Young <reid@reidmcy.com>
+Date:   Wed Jan 3 08:25:49 2018 -0600
+
+    Making week 1
+
+[33mcommit ca341beb85aef2a066603d142058690028c1bfc0[m
+Author: Reid McIlroy-Young <reidmcy@users.noreply.github.com>
+Date:   Wed Jan 3 08:24:35 2018 -0600
+
+    Initial commit
