@@ -1,0 +1,249 @@
+The Science of Logic
+preface to the first edition
+The complete transformation that the ways of philosophical thought have
+undergone among us in the past twenty-five odd years, the higher standpoint in self-awareness that spirit has attained in this period of time, has
+so far had little influence on the shape of the logic.
+What was hitherto called “metaphysics” has been, so to speak, extirpated
+root and branch, and has vanished from the ranks of the sciences. Where are
+the voices still to be heard of the ontology of former times, of the rational
+psychology, the cosmology, or indeed, even of the natural theology of the
+past, or where are they allowed to be heard? Inquiries, for instance, into
+the immateriality of the soul, into mechanical and final causes – where is
+interest in them still to be found? Even the former proofs of God’s existence
+are cited only out of historical interest, or for the purpose of edification and
+the uplifting of the mind. The fact is that interest, whether in the content
+or in the form of the former metaphysics, or in both together, has been
+lost. Remarkable as it is if a people has become indifferent, for instance,
+to its constitutional law, to its convictions, its moral customs and virtues,
+just as remarkable it is when a people loses its metaphysics – when the
+spirit engaged with its pure essence no longer has any real presence in its
+life.
+The exoteric teaching of the Kantian philosophy – that the understanding ought not to be allowed to soar above experience, lest the cognitive faculty
+become a theoretical reason that by itself would beget nothing but mental
+fancies – this was the justification coming from the scientific camp for
+78 
+renouncing speculative thought. In support of this popular doctrine there
+was added the cry of alarm of modern pedagogy, that the pressing situation
+of the time called for attention to immediate needs – that just as in the
+ways of knowledge experience is first, so for skill in public and private
+life, exercise and practical education are the essential, they alone what is
+6 required, while theoretical insight is even harmful. – With science and
+common sense thus working hand in hand to cause the downfall of metaphysics, the singular spectacle came into view of a cultivated people without
+metaphysics – like a temple richly ornamented in other respects but without
+a holy of holies. – Theology, which in former times was the custodian of
+the speculative mysteries and of the albeit subordinate metaphysics, had
+relinquished this last science in exchange for feelings, popular practicality,
+and erudite historiography. And it was in keeping with this change that,
+for their part, those solitary individuals, whom their people had exiled
+from the world and dedicated to the contemplation of the eternal, also
+disappeared. Theirs was a life devoted exclusively to the service of contemplation, without practical gain but only for the sake of blessedness, and
+their disappearance can be regarded as essentially the same phenomenon,
+though in a different context, as the one just mentioned. – And so this
+darkness, this colorless self-preoccupation of spirit bent upon itself, having been dispelled, existence shone transformed into the bright world of
+flowers – of which, as is well known, none is black.
+Logic did not fare quite as badly as metaphysics. That from logic one
+learns how to think, which for lack of anything else was considered its
+usefulness and therefore its purpose – just as if one were to learn how to
+digest or to move first from the study of anatomy and physiology – this
+is a prejudice that has long been put to rest, and in this respect the spirit
+of practicality certainly did not intend any better fate for logic than it
+did for its sister science. Nevertheless, probably for the sake of a certain
+formal utility, a place was still allowed for it among the sciences; it was even
+retained as a subject of public instruction. However, this better lot concerns
+only the outer fate of logic, for its shape and content have remained the
+same throughout a long inherited tradition, though progressively more
+diluted and emaciated in the course of the transmission; no trace is so far
+to be detected in it of the new spirit that has awakened in the sciences
+no less than in the world of actuality. However, once the substantial form
+of the spirit has reconstituted itself, it is of no avail to want to retain the
+forms of an earlier culture. These are like withered leaves pushed aside by
+the new buds already being generated at their roots. 9
+Also in the scientific realm this ignoring of the universal change is gradually beginning to lose ground. The new ideas have imperceptibly become
+the accepted currency even to those opposed to them. And if these continue
+to fuss about their sources and principles and to dispute them, they have 7
+nevertheless surrendered to their consequences, unable to fend off their
+influence. They have no other way of giving a positive importance, and
+some content, to their increasingly irrelevant negative attitude, except by
+falling in with the new ways of thinking.
+However, the period of fermentation that goes with the beginning of
+every new creation seems to be past. In its first manifestation, a new creation usually behaves towards the entrenched systematization of the earlier
+principle with fanatical hostility; in fear of losing itself in the expansion of
+the particular, it also shuns the labor that goes with scientific cultivation
+and, nevertheless in need of it, it grasps at first at an empty formalism. The
+demand for the elaboration and cultivation of the material becomes at that
+point all the more pressing. There is a period in the formation of an epoch
+in which, just as in the formation of the individual, the foremost concern
+is the acquisition and reinforcement of the principle in its undeveloped
+intensity. But the higher demand is that such a principle should be made
+into science.
+Now, whatever might already have happened to the substance and form
+of science in other respects,  that makes up metaphysics
+proper or pure speculative philosophy has to date been much neglected.
+What I more precisely understand by this science and its standpoint, I
+have provisorily stated in the Introduction. The fact that it was necessary to
+make a completely fresh start with this science, the nature itself of its subject
+matter, and the lack of any previous work that could have been used for
+the undertaken reform of it, may be taken into account by the fair-minded
+critic if even a labor of many years was unable to give this effort a greater
+perfection. – The essential point to be kept in mind is that an altogether
+new concept of scientific procedure is at work here. As I have remarked
+elsewhere,a inasmuch as philosophy is to be science, it cannot borrow its
+method from a subordinate science, such as mathematics, any more than
+it can remain satisfied with categorical assurances of inner intuition, or can
+make use of argumentation based on external reflection. On the contrary,
+it can only be the nature of the content which is responsible for movement
+a Phenomenology of Spirit, Preface to the first edition. [GW 9, pp. 31, 33–36] – The actual demonstration
+is the cognition of the method, such as has its place in the logic itself.10 
+8 in scientific knowledge, for it is the content’s own reflection that first posits
+and generates what that content is.
+The understanding determines, and holds the determination fixed. Reason is negative and dialectical, since it dissolves the determinations of the
+understanding into nothing; it is positive, since it generates the universal,
+and comprehends the particular therein. Just as the understanding is usually taken as something separate from reason in general, so also dialectical
+reason is taken as something separate from positive reason. In its truth
+reason is however spirit, which is higher than both reason bound to the
+understanding and understanding bound to reason. It is the negative, that
+which constitutes the quality of both the dialectical reason and the understanding: it negates the simple, thereby posits the determinate difference
+of the understanding; but it equally dissolves this difference, and so it is
+dialectical. But spirit does not stay at the nothing of this result but is in
+it rather equally positive, and thereby restores the first simplicity, but as
+universal, such as it is concrete in itself; a given particular is not subsumed
+under this universal but, on the contrary, it has already been determined
+together with the determining of the difference and the dissolution of this
+determining. This spiritual movement, which in its simplicity gives itself its
+determinateness, and in this determinateness gives itself its self-equality –
+this movement, which is thus the immanent development of the concept,
+is the absolute method of the concept, the absolute method of cognition
+and at the same time the immanent soul of the content. – On this selfconstructing path alone, I say, is philosophy capable of being objective,
+demonstrative science. – In this fashion have I tried to portray consciousness in the Phenomenology of Spirit. Consciousness is spirit as concrete,
+self-aware knowledge – to be sure, a knowledge bound to externality, but
+the progression of this subject matter, like the development of all natural
+and spiritual life, rests exclusively on the nature of the pure essentialities
+that constitute the content of the logic. Consciousness, as spirit which on
+the way of manifesting itself frees itself from its immediacy and external
+concretion, attains to the pure knowledge that takes these same pure essentialities for its subject matter as they are in and for themselves. They are
+pure thoughts, spirit that thinks its essence. Their self-movement is their
+spiritual life and is that through which science constitutes itself, and of
+which it is the exposition.
+The connection of the science that I call Phenomenology of Spirit to
+the Logic is thereby stated. – As regards the way it stands to it exter-
+9 nally, a second part was intended to follow the first part of the System 11
+of Scienceb that contains the Phenomenology. This second part would have
+contained the Logic and both the two real sciences of philosophy, the Philosophy of Nature and the Philosophy of Spirit, and would have brought
+the system of science to completion. However, the necessary expansion
+which the Logic demanded by itself has led me to have this particular part
+published separately. It therefore constitutes the first sequel to the Phenomenology of Spirit in an expanded plan of the system of science. I shall
+later follow up with a treatment of both the two mentioned real sciences
+of philosophy. – This first volume of the Logic contains the Doctrine of
+Being, as Book One; Book Two, the second section of the same volume
+which contains the Doctrine of Essence is already in the presses; finally, the
+second volume will contain the Subjective Logic, or the Doctrine of the
+Concept.
+Nurnberg, March ¨ 22, 1812 10
+preface to the second edition
+I undertook this revision of , of which the first volume is
+hereby being published, in full consciousness not only of the difficulty of its
+subject matter and of its exposition besides, but equally of the imperfection
+from which its treatment in the first edition suffers. As earnestly as I have
+striven after many years of further occupation with this science to remedy
+this imperfection, I still feel that I have cause enough to appeal to the
+reader’s indulgence. One title to such appeal in the first instance may well be
+based on the circumstance that for the most part only external material was
+available for its content in the earlier metaphysics and logic. Although the
+practice of these disciplines had been universal and customary, in the case
+of logic down to our own time, its interest in their speculative side has been
+just as universally and customarily restricted. It is the same material which
+is repeated over and over again, whether it is thinned out to the point of
+trivial superficiality, or whether the ancient ballast is freshly trotted out and
+dragged to new lengths, so that, through these habitually only mechanical
+efforts, no gain could be had for the philosophical content. To display
+b (Bamberg and Wurzburg: at G ¨ obbard’s, ¨ 1807). This title [i.e. “First Part of the System of Science”]
+will no longer be added to the second edition to be published this coming Easter. – In place of
+the intended second part here mentioned, which was to contain the complement of the other
+philosophical sciences, I have since brought out the Encyclopedia of the Philosophical Sciences, in its
+third edition last year. [1832]12 
+the realm of thought philosophically, that is, in its own immanent activity
+or, what is the same, in its necessary development, had to be, therefore,
+a new undertaking, one that had to be started right from the beginning.
+Nevertheless, the received material, the known thought-forms, must be
+regarded as an extremely important fund, even a necessary condition, a
+presupposition to be gratefully acknowledged even though what it offers
+here and there is only a bare thread, the dead bones of a skeleton thrown
+together in a disorderly heap.
+The forms of thought are first set out and stored in human language,
+and one can hardly be reminded often enough nowadays that thought is
+what differentiates the human being from the beast. In everything that
+the human being has interiorized, in everything that in some way or other
+has become for him a representation, in whatever he has made his own,
+there has language penetrated, and everything that he transforms into
+language and expresses in it contains a category, whether concealed, mixed,
+or well defined. So much is logic natural to the human being, is indeed
+his very nature. If we however contrast nature as such, as the realm of the
+11 physical, with the realm of the spiritual, then we must say that logic is the
+supernatural element that permeates all his natural behavior, his ways of
+sensing, intuiting, desiring, his needs and impulses; and it thereby makes
+them into something truly human, even though only formally human –
+makes them into representations and purposes. It is to the advantage
+of a language when it possesses a wealth of logical expressions, that is,
+distinctive expressions specifically set aside for thought determinations.
+Many of the prepositions and articles already pertain to relations based on
+thought (in this the Chinese language has apparently not advanced that
+far culturally, or at least not far enough), but such particles play a totally
+subordinate role, only slightly more independent than that of prefixes
+and suffixes, inflections, and the like. Much more important is that in a
+language the categories should be expressed as substantives and verbs, and
+thus be stamped into objective form. In this respect, the German language
+has many advantages over other modern languages, for many of its words
+also have the further peculiarity of carrying, not just different meanings,
+but opposite ones, and in this one cannot fail to recognize the language’s
+speculative spirit. It can delight thought to come across such words, and
+to discover in na¨ive form, already in the lexicon as one word of opposite
+meanings, that union of opposites which is the result of speculation but
+to the understanding is nonsensical. Philosophy, therefore, stands in no
+need of special terminology; true, some words are to be taken from foreign
+languages; yet, through use these have already acquired citizenship in it and 13
+an affected purism would be all the more out of place where everything
+depends on meaning the most. – The advance of culture in general and
+of the sciences in particular, even the empirical sciences which are bound
+to the senses and generally operate in the medium of the most common
+categories (e.g. whole and parts, a thing and its properties, and the like),
+gradually fosters the rise of thought-relations that are also more advanced,
+or it at least raises them to wider universality and consequently brings them
+to greater notice. In Physics, for instance, where the predominant category
+previously was that of force, it is the category of polarity that now plays the
+most significant role – a category which, incidentally, is randomly being
+imposed all too often on everything, even on light. It defines a difference in
+which the different terms are inseparably bound together, and it is indeed
+of infinite importance that an advance has thereby been made beyond the
+abstractive form of identity, by which a determinateness such as for example
+that of force acquires independent status, and the determining form of
+difference, the difference that at the same time remains an inseparable
+moment of identity, is instead brought to the forefront and is given general
+acceptance. The study of nature, because of the stable reality of its objects,
+is inevitably led to fix categories that can no longer be ignored in it, even if 12
+with complete disregard for consistency towards other categories which are
+also allowed to stand; it is not given room for abstracting from opposition
+and moving on to generalities, as so easily happens when spirit is the object.
+But even when logical matters and their expressions are common coin
+in a culture, still, as I have said elsewhere,1 what is familiar is for that reason
+not known, and it can even be a source of irritation to have to occupy
+oneself with the familiar – and what could be more familiar than just those
+determinations of thought which we employ everywhere, and are on our
+lips in every sentence that we utter? To indicate the general features of
+the course that cognition goes through as it leaves familiar acquaintance
+behind, the essential moments in the relationship of scientific thought to
+this natural thought, this is the purpose of the present preface. Together
+with the earlier Introduction, it will suffice for a general idea of what is
+meant by logical cognition – the kind of general idea which is demanded
+of a science prior to the science itself.
+First of all, it must be regarded as an infinite step forward that the forms
+of thought have been freed from the material in which they are submerged
+in self-conscious intuition, in representation, as well as in our desires and
+volitions or, more accurately, in ideational desiring and willing (and there
+1 In the Preface to the Phenomenology of Spirit, GW 9, 26.14 
+is no human desire or volition without ideation); a step forward that these
+universalities have been brought to light and made the subject of study on
+their own, as was done by Plato, and after him by Aristotle especially; this
+step marks the beginning of our knowledge of them. “Only after almost
+everything which is necessary to life, and pertains to its comfort and
+sociability, was made available,” says Aristotle, “did man begin to trouble
+himself with philosophical knowledge.”

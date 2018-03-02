@@ -1,0 +1,568 @@
+
+
+
+Title: The Essays of Arthur Schopenhauer; The Art of Controversy
+
+Author: Arthur Schopenhauer
+
+
+
+THE ART OF CONTROVERSY.
+
+
+PRELIMINARY: LOGIC AND DIALECTIC.
+
+By the ancients, Logic and Dialectic were used as synonymous terms;
+although [Greek: logizesthai], "to think over, to consider, to
+calculate," and [Greek: dialegesthai], "to converse," are two very
+different things.
+
+The name Dialectic was, as we are informed by Diogenes Laertius, first
+used by Plato; and in the _Phaedrus, Sophist, Republic_, bk. vii., and
+elsewhere, we find that by Dialectic he means the regular employment
+of the reason, and skill in the practice of it. Aristotle also uses
+the word in this sense; but, according to Laurentius Valla, he was
+the first to use Logic too in a similar way.[1] Dialectic, therefore,
+seems to be an older word than Logic. Cicero and Quintilian use the
+words in the same general signification.[2]
+
+[Footnote 1: He speaks of [Greek: dyscherelai logicai], that is,
+"difficult points," [Greek: protasis logicae aporia logicae]]
+
+[Footnote 2: Cic. _in Lucullo: Dialecticam inventam esse, veri et
+falsi quasi disceptatricem. Topica_, c. 2: _Stoici enim judicandi vias
+diligenter persecuti sunt, ea scientia, quam_ Dialecticen _appellant_.
+Quint., lib. ii., 12: _Itaque haec pars dialecticae, sive illam
+disputatricem dicere malimus_; and with him this latter word appears
+to be the Latin equivalent for Dialectic. (So far according to "Petri
+Rami dialectica, Audomari Talaei praelectionibus illustrata." 1569.)]
+
+This use of the words and synonymous terms lasted through the Middle
+Ages into modern times; in fact, until the present day. But more
+recently, and in particular by Kant, Dialectic has often been employed
+in a bad sense, as meaning "the art of sophistical controversy";
+and hence Logic has been preferred, as of the two the more innocent
+designation. Nevertheless, both originally meant the same thing; and
+in the last few years they have again been recognised as synonymous.
+
+It is a pity that the words have thus been used from of old, and that
+I am not quite at liberty to distinguish their meanings. Otherwise, I
+should have preferred to define _Logic_ (from [Greek: logos], "word"
+and "reason," which are inseparable) as "the science of the laws of
+thought, that is, of the method of reason"; and _Dialectic_ (from
+[Greek: dialegesthai], "to converse"--and every conversation
+communicates either facts or opinions, that is to say, it is
+historical or deliberative) as "the art of disputation," in the modern
+sense of the word. It it clear, then, that Logic deals with a subject
+of a purely _a priori_ character, separable in definition from
+experience, namely, the laws of thought, the process of reason or the
+[Greek: logos], the laws, that is, which reason follows when it is
+left to itself and not hindered, as in the case of solitary thought on
+the part of a rational being who is in no way misled. Dialectic, on
+the other hand, would treat of the intercourse between two rational
+beings who, because they are rational, ought to think in common, but
+who, as soon as they cease to agree like two clocks keeping exactly
+the same time, create a disputation, or intellectual contest. Regarded
+as purely rational beings, the individuals would, I say, necessarily
+be in agreement, and their variation springs from the difference
+essential to individuality; in other words, it is drawn from
+experience.
+
+Logic, therefore, as the science of thought, or the science of the
+process of pure reason, should be capable of being constructed _a
+priori_. Dialectic, for the most part, can be constructed only _a
+posteriori_; that is to say, we may learn its rules by an experiential
+knowledge of the disturbance which pure thought suffers through the
+difference of individuality manifested in the intercourse between
+two rational beings, and also by acquaintance with the means which
+disputants adopt in order to make good against one another their own
+individual thought, and to show that it is pure and objective. For
+human nature is such that if A. and B. are engaged in thinking in
+common, and are communicating their opinions to one another on any
+subject, so long as it is not a mere fact of history, and A. perceives
+that B.'s thoughts on one and the same subject are not the same as his
+own, he does not begin by revising his own process of thinking, so as
+to discover any mistake which he may have made, but he assumes that
+the mistake has occurred in B.'s. In other words, man is naturally
+obstinate; and this quality in him is attended with certain results,
+treated of in the branch of knowledge which I should like to call
+Dialectic, but which, in order to avoid misunderstanding, I shall call
+Controversial or Eristical Dialectic. Accordingly, it is the branch
+of knowledge which treats of the obstinacy natural to man. Eristic is
+only a harsher name for the same thing.
+
+Controversial Dialectic is the art of disputing, and of disputing in
+such a way as to hold one's own, whether one is in the right or the
+wrong--_per fas et nefas_.[1] A man may be objectively in the right,
+and nevertheless in the eyes of bystanders, and sometimes in his own,
+he may come off worst. For example, I may advance a proof of some
+assertion, and my adversary may refute the proof, and thus appear to
+have refuted the assertion, for which there may, nevertheless, be
+other proofs. In this case, of course, my adversary and I change
+places: he comes off best, although, as a matter of fact, he is in the
+wrong.
+
+[Footnote 1: According to Diogenes Laertius, v., 28, Aristotle put
+Rhetoric and Dialectic together, as aiming at persuasion, [Greek: to
+pithanon]; and Analytic and Philosophy as aiming at truth. Aristotle
+does, indeed, distinguish between (1) _Logic_, or Analytic, as the
+theory or method of arriving at true or apodeictic conclusions; and
+(2) _Dialectic_ as the method of arriving at conclusions that are
+accepted or pass current as true, [Greek: endoxa] _probabilia_;
+conclusions in regard to which it is not taken for granted that they
+are false, and also not taken for granted that they are true in
+themselves, since that is not the point. What is this but the art of
+being in the right, whether one has any reason for being so or not, in
+other words, the art of attaining the appearance of truth, regardless
+of its substance? That is, then, as I put it above.
+
+Aristotle divides all conclusions into logical and dialectical, in the
+manner described, and then into eristical. (3) _Eristic_ is the method
+by which the form of the conclusion is correct, but the premisses, the
+materials from which it is drawn, are not true, but only appear to be
+true. Finally (4) _Sophistic_ is the method in which the form of the
+conclusion is false, although it seems correct. These three last
+properly belong to the art of Controversial Dialectic, as they have
+no objective truth in view, but only the appearance of it, and pay
+no regard to truth itself; that is to say, they aim at victory.
+Aristotle's book on _Sophistic Conclusions_ was edited apart from the
+others, and at a later date. It was the last book of his _Dialectic_.]
+
+If the reader asks how this is, I reply that it is simply the
+natural baseness of human nature. If human nature were not base, but
+thoroughly honourable, we should in every debate have no other aim
+than the discovery of truth; we should not in the least care whether
+the truth proved to be in favour of the opinion which we had begun by
+expressing, or of the opinion of our adversary. That we should
+regard as a matter of no moment, or, at any rate, of very secondary
+consequence; but, as things are, it is the main concern. Our
+innate vanity, which is particularly sensitive in reference to our
+intellectual powers, will not suffer us to allow that our first
+position was wrong and our adversary's right. The way out of this
+difficulty would be simply to take the trouble always to form a
+correct judgment. For this a man would have to think before he spoke.
+But, with most men, innate vanity is accompanied by loquacity and
+innate dishonesty. They speak before they think; and even though they
+may afterwards perceive that they are wrong, and that what they assert
+is false, they want it to seem the contrary. The interest in truth,
+which may be presumed to have been their only motive when they stated
+the proposition alleged to be true, now gives way to the interests of
+vanity: and so, for the sake of vanity, what is true must seem false,
+and what is false must seem true.
+
+However, this very dishonesty, this persistence in a proposition which
+seems false even to ourselves, has something to be said for it. It
+often happens that we begin with the firm conviction of the truth
+of our statement; but our opponent's argument appears to refute it.
+Should we abandon our position at once, we may discover later on
+that we were right after all; the proof we offered was false, but
+nevertheless there was a proof for our statement which was true. The
+argument which would have been our salvation did not occur to us at
+the moment. Hence we make it a rule to attack a counter-argument, even
+though to all appearances it is true and forcible, in the belief that
+its truth is only superficial, and that in the course of the dispute
+another argument will occur to us by which we may upset it, or succeed
+in confirming the truth of our statement. In this way we are almost
+compelled to become dishonest; or, at any rate, the temptation to do
+so is very great. Thus it is that the weakness of our intellect and
+the perversity of our will lend each other mutual support; and that,
+generally, a disputant fights not for truth, but for his proposition,
+as though it were a battle _pro aris et focis_. He sets to work _per
+fas et nefas_; nay, as we have seen, he cannot easily do otherwise.
+As a rule, then, every man will insist on maintaining whatever he
+has said, even though for the moment he may consider it false or
+doubtful.[1]
+
+[Footnote 1: Machiavelli recommends his Prince to make use of every
+moment that his neighbour is weak, in order to attack him; as
+otherwise his neighbour may do the same. If honour and fidelity
+prevailed in the world, it would be a different matter; but as these
+are qualities not to be expected, a man must not practise them
+himself, because he will meet with a bad return. It is just the same
+in a dispute: if I allow that my opponent is right as soon as he seems
+to be so, it is scarcely probable that he will do the same when the
+position is reversed; and as he acts wrongly, I am compelled to act
+wrongly too. It is easy to say that we must yield to truth, without
+any prepossession in favour of our own statements; but we cannot
+assume that our opponent will do it, and therefore we cannot do
+it either. Nay, if I were to abandon the position on which I had
+previously bestowed much thought, as soon as it appeared that he was
+right, it might easily happen that I might be misled by a momentary
+impression, and give up the truth in order to accept an error.]
+
+To some extent every man is armed against such a procedure by his own
+cunning and villainy. He learns by daily experience, and thus comes
+to have his own _natural Dialectic_, just as he has his own _natural
+Logic_. But his Dialectic is by no means as safe a guide as his Logic.
+It is not so easy for any one to think or draw an inference contrary
+to the laws of Logic; false judgments are frequent, false conclusions
+very rare. A man cannot easily be deficient in natural Logic, but he
+may very easily be deficient in natural Dialectic, which is a gift
+apportioned in unequal measure. In so far natural Dialectic resembles
+the faculty of judgment, which differs in degree with every man; while
+reason, strictly speaking, is the same. For it often happens that in
+a matter in which a man is really in the right, he is confounded or
+refuted by merely superficial arguments; and if he emerges victorious
+from a contest, he owes it very often not so much to the correctness
+of his judgment in stating his proposition, as to the cunning and
+address with which he defended it.
+
+Here, as in all other cases, the best gifts are born with a man;
+nevertheless, much may be done to make him a master of this art by
+practice, and also by a consideration of the tactics which may be used
+to defeat an opponent, or which he uses himself for a similar purpose.
+Therefore, even though Logic may be of no very real, practical use,
+Dialectic may certainly be so; and Aristotle, too, seems to me to
+have drawn up his Logic proper, or Analytic, as a foundation and
+preparation for his Dialectic, and to have made this his chief
+business. Logic is concerned with the mere form of propositions;
+Dialectic, with their contents or matter--in a word, with their
+substance. It was proper, therefore, to consider the general form of
+all propositions before proceeding to particulars.
+
+Aristotle does not define the object of Dialectic as exactly as I
+have done it here; for while he allows that its principal object
+is disputation, he declares at the same time that it is also the
+discovery of truth.[1] Again, he says, later on, that if, from the
+philosophical point of view, propositions are dealt with according to
+their truth, Dialectic regards them according to their plausibility,
+or the measure in which they will win the approval and assent of
+others.[2] He is aware that the objective truth of a proposition must
+be distinguished and separated from the way in which it is pressed
+home, and approbation won for it; but he fails to draw a sufficiently
+sharp distinction between these two aspects of the matter, so as to
+reserve Dialectic for the latter alone.[3] The rules which he often
+gives for Dialectic contain some of those which properly belong to
+Logic; and hence it appears to me that he has not provided a clear
+solution of the problem.
+
+[Footnote 1: _Topica_, bk. i., 2.]
+
+[Footnote 2: _Ib_., 12.]
+
+[Footnote 3: On the other hand, in his book _De Sophisticis Elenchis_,
+he takes too much trouble to separate _Dialectic_ from _Sophistic_
+and _Eristic_, where the distinction is said to consist in this, that
+dialectical conclusions are true in their form and their contents,
+while sophistical and eristical conclusions are false.
+
+Eristic so far differs from Sophistic that, while the master of
+Eristic aims at mere victory, the Sophist looks to the reputation,
+and with it, the monetary rewards which he will gain. But whether a
+proposition is true in respect of its contents is far too uncertain a
+matter to form the foundation of the distinction in question; and
+it is a matter on which the disputant least of all can arrive at
+certainty; nor is it disclosed in any very sure form even by the
+result of the disputation. Therefore, when Aristotle speaks of
+_Dialectic_, we must include in it Sophistic, Eristic, and Peirastic,
+and define it as "the art of getting the best of it in a dispute," in
+which, unquestionably, the safest plan is to be in the right to begin
+with; but this in itself is not enough in the existing disposition
+of mankind, and, on the other hand, with the weakness of the human
+intellect, it is not altogether necessary. Other expedients are
+required, which, just because they are unnecessary to the attainment
+of objective truth, may also be used when a man is objectively in the
+wrong; and whether or not this is the case, is hardly ever a matter of
+complete certainty.
+
+I am of opinion, therefore, that a sharper distinction should be drawn
+between Dialectic and Logic than Aristotle has given us; that to Logic
+we should assign objective truth as far as it is merely formal, and
+that Dialectic should be confined to the art of gaining one's point,
+and contrarily, that Sophistic and Eristic should not be distinguished
+from Dialectic in Aristotle's fashion, since the difference which he
+draws rests on objective and material truth; and in regard to what
+this is, we cannot attain any clear certainty before discussion; but
+we are compelled, with Pilate, to ask, _What is truth_? For truth
+is in the depths, [Greek: en butho hae halaetheia] (a saying of
+Democritus, _Diog. Laert_., ix., 72). Two men often engage in a warm
+dispute, and then return to their homes each of the other's opinion,
+which he has exchanged for his own. It is easy to say that in every
+dispute we should have no other aim than the advancement of truth; but
+before dispute no one knows where it is, and through his opponent's
+arguments and his own a man is misled.]
+
+We must always keep the subject of one branch of knowledge quite
+distinct from that of any other. To form a clear idea of the province
+of Dialectic, we must pay no attention to objective truth, which is an
+affair of Logic; we must regard it simply as _the art of getting the
+best of it in a dispute_, which, as we have seen, is all the easier if
+we are actually in the right. In itself Dialectic has nothing to do
+but to show how a man may defend himself against attacks of every
+kind, and especially against dishonest attacks; and, in the
+same fashion, how he may attack another man's statement without
+contradicting himself, or generally without being defeated. The
+discovery of objective truth must be separated from the art of winning
+acceptance for propositions; for objective truth is an entirely
+different matter: it is the business of sound judgment, reflection and
+experience, for which there is no special art.
+
+Such, then, is the aim of Dialectic. It has been defined as the Logic
+of appearance; but the definition is a wrong one, as in that case it
+could only be used to repel false propositions. But even when a man
+has the right on his side, he needs Dialectic in order to defend and
+maintain it; he must know what the dishonest tricks are, in order to
+meet them; nay, he must often make use of them himself, so as to beat
+the enemy with his own weapons.
+
+Accordingly, in a dialectical contest we must put objective truth
+aside, or, rather, we must regard it as an accidental circumstance,
+and look only to the defence of our own position and the refutation of
+our opponent's.
+
+In following out the rules to this end, no respect should be paid to
+objective truth, because we usually do not know where the truth lies.
+As I have said, a man often does not himself know whether he is in the
+right or not; he often believes it, and is mistaken: both sides often
+believe it. Truth is in the depths. At the beginning of a contest each
+man believes, as a rule, that right is on his side; in the course of
+it, both become doubtful, and the truth is not determined or confirmed
+until the close.
+
+Dialectic, then, need have nothing to do with truth, as little as the
+fencing master considers who is in the right when a dispute leads to a
+duel. Thrust and parry is the whole business. Dialectic is the art of
+intellectual fencing; and it is only when we so regard it that we can
+erect it into a branch of knowledge. For if we take purely objective
+truth as our aim, we are reduced to mere Logic; if we take the
+maintenance of false propositions, it is mere Sophistic; and in either
+case it would have to be assumed that we were aware of what was true
+and what was false; and it is seldom that we have any clear idea of
+the truth beforehand. The true conception of Dialectic is, then, that
+which we have formed: it is the art of intellectual fencing used for
+the purpose of getting the best of it in a dispute; and, although the
+name _Eristic_ would be more suitable, it is more correct to call it
+controversial Dialectic, _Dialectica eristica_.
+
+Dialectic in this sense of the word has no other aim but to reduce
+to a regular system and collect and exhibit the arts which most men
+employ when they observe, in a dispute, that truth is not on their
+side, and still attempt to gain the day. Hence, it would be very
+inexpedient to pay any regard to objective truth or its advancement in
+a science of Dialectic; since this is not done in that original and
+natural Dialectic innate in men, where they strive for nothing but
+victory. The science of Dialectic, in one sense of the word, is mainly
+concerned to tabulate and analyse dishonest stratagems, in order that
+in a real debate they may be at once recognised and defeated. It is
+for this very reason that Dialectic must admittedly take victory, and
+not objective truth, for its aim and purpose.
+
+I am not aware that anything has been done in this direction,
+although I have made inquiries far and wide.[1] It is, therefore, an
+uncultivated soil. To accomplish our purpose, we must draw from our
+experience; we must observe how in the debates which often arise in
+our intercourse with our fellow-men this or that stratagem is employed
+by one side or the other. By finding out the common elements in tricks
+repeated in different forms, we shall be enabled to exhibit certain
+general stratagems which may be advantageous, as well for our own use,
+as for frustrating others if they use them.
+
+[Footnote 1: Diogenes Laertes tells us that among the numerous
+writings on Rhetoric by Theophrastus, all of which have been lost,
+there was one entitled [Greek: Agonistikon taes peri tous eristikous
+gogous theorias.] That would have been just what we want.]
+
+What follows is to be regarded as a first attempt.
+
+
+THE BASIS OF ALL DIALECTIC.
+
+First of all, we must consider the essential nature of every dispute:
+what it is that really takes place in it.
+
+Our opponent has stated a thesis, or we ourselves,--it is all one.
+There are two modes of refuting it, and two courses that we may
+pursue.
+
+I. The modes are (1) _ad rem_, (2) _ad hominem_ or _ex concessis_.
+That is to say: We may show either that the proposition is not in
+accordance with the nature of things, i.e., with absolute, objective
+truth; or that it is inconsistent with other statements or admissions
+of our opponent, i.e., with truth as it appears to him. The latter
+mode of arguing a question produces only a relative conviction, and
+makes no difference whatever to the objective truth of the matter.
+
+II. The two courses that we may pursue are (1) the direct, and (2) the
+indirect refutation. The direct attacks the reason for the thesis; the
+indirect, its results. The direct refutation shows that the thesis is
+not true; the indirect, that it cannot be true.
+
+The direct course admits of a twofold procedure. Either we may
+show that the reasons for the statement are false (_nego majorem,
+minorem_); or we may admit the reasons or premisses, but show that the
+statement does not follow from them (_nego consequentiam)_; that is,
+we attack the conclusion or form of the syllogism.
+
+The direct refutation makes use either of the _diversion_ or of the
+_instance_.
+
+_(a)_ The _diversion_.--We accept our opponent's proposition as true,
+and then show what follows from it when we bring it into connection
+with some other proposition acknowledged to be true. We use the two
+propositions as the premisses of a syllogism giving a conclusion which
+is manifestly false, as contradicting either the nature of things,[1]
+or other statements of our opponent himself; that is to say, the
+conclusion is false either _ad rem_ or _ad hominem_.[2] Consequently,
+our opponent's proposition must have been false; for, while true
+premisses can give only a true conclusion, false premisses need not
+always give a false one.
+
+[Footnote 1: If it is in direct contradiction with a perfectly
+undoubted, truth, we have reduced our opponent's position _ad
+absurdum_.]
+
+[Footnote 2: Socrates, in _Hippia Maj. et alias_.]
+
+
+_(b) The instance_, or the example to the contrary.--This consists in
+refuting the general proposition by direct reference to particular
+cases which are included in it in the way in which it is stated, but
+to which it does not apply, and by which it is therefore shown to be
+necessarily false.
+
+Such is the framework or skeleton of all forms of disputation; for to
+this every kind of controversy may be ultimately reduced. The whole of
+a controversy may, however, actually proceed in the manner described,
+or only appear to do so; and it may be supported by genuine or
+spurious arguments. It is just because it is not easy to make out
+the truth in regard to this matter, that debates are so long and so
+obstinate.
+
+Nor can we, in ordering the argument, separate actual from apparent
+truth, since even the disputants are not certain about it beforehand.
+Therefore I shall describe the various tricks or stratagems without
+regard to questions of objective truth or falsity; for that is a
+matter on which we have no assurance, and which cannot be determined
+previously. Moreover, in every disputation or argument on any subject
+we must agree about something; and by this, as a principle, we must be
+willing to judge the matter in question. We cannot argue with those
+who deny principles: _Contra negantem principia non est disputandum_.
+
+
+STRATAGEMS.
+
+I.
+
+The _Extension_.--This consists in carrying your opponent's
+proposition beyond its natural limits; in giving it as general a
+signification and as wide a sense as possible, so as to exaggerate it;
+and, on the other hand, in giving your own proposition as restricted
+a sense and as narrow limits as you can, because the more general a
+statement becomes, the more numerous are the objections to which it is
+open. The defence consists in an accurate statement of the point or
+essential question at issue.
+
+Example 1.--I asserted that the English were supreme in drama. My
+opponent attempted _to_ give an instance to the contrary, and replied
+that it was a well-known fact that in music, and consequently in
+opera, they could do nothing at all. I repelled the attack by
+reminding him that music was not included in dramatic art, which
+covered tragedy and comedy alone. This he knew very well. What he had
+done was to try to generalise my proposition, so that it would apply
+to all theatrical representations, and, consequently, to opera and
+then to music, in order to make certain of defeating me. Contrarily,
+we may save our proposition by reducing it within narrower limits
+than we had first intended, if our way of expressing it favours this
+expedient.
+
+Example 2.--A. declares that the Peace of 1814 gave back their
+independence to all the German towns of the Hanseatic League. B. gives
+an instance to the contrary by reciting the fact that Dantzig, which
+received its independence from Buonaparte, lost it by that Peace. A.
+saves himself thus: "I said 'all German towns,' and Dantzig was in
+Poland."
+
+This trick was mentioned by Aristotle in the _Topica_ (bk. viii., cc.
+11, 12).
+
+Example 3.--Lamarck, in his _Philosophic Zoologique_ (vol. i., p.
+208), states that the polype has no feeling, because it has no nerves.
+It is certain, however, that it has some sort of perception; for it
+advances towards light by moving in an ingenious fashion from branch
+to branch, and it seizes its prey. Hence it has been assumed that its
+nervous system is spread over the whole of its body in equal measure,
+as though it were blended with it; for it is obvious that the polype
+possesses some faculty of perception without having any separate
+organs of sense. Since this assumption refutes Lamarck's position, he
+argues thus: "In that case all parts of its body must be capable of
+every kind of feeling, and also of motion, of will, of thought. The
+polype would have all the organs of the most perfect animal in every
+point of its body; every point could see, smell, taste, hear, and so
+on; nay, it could think, judge, and draw conclusions; every particle
+of its body would be a perfect animal and it would stand higher than
+man, as every part of it would possess all the faculties which man
+possesses only in the whole of him. Further, there would be no reason
+for not extending what is true of the polype to all monads, the most
+imperfect of all creatures, and ultimately to the plants, which are
+also alive, etc., etc." By using dialectical tricks of this kind a
+writer betrays that he is secretly conscious of being in the wrong.
+Because it was said that the creature's whole body is sensitive to
+light, and is therefore possessed of nerves, he makes out that its
+whole body is capable of thought.
+
+
+II.
+
+The _Homonymy_.--This trick is to extend a proposition to something
+which has little or nothing in common with the matter in question but
+the similarity of the word; then to refute it triumphantly, and so
+claim credit for having refuted the original statement.
+
+It may be noted here that synonyms are two words for the same
+conception; homonyms, two conceptions which are covered by the same
+word. (See Aristotle, _Topica_, bk. i., c. 13.) "Deep," "cutting,"
+"high," used at one moment of bodies at another of tones, are
+homonyms; "honourable" and "honest" are synonyms.
+
+This is a trick which may be regarded as identical with the sophism
+_ex homonymia_; although, if the sophism is obvious, it will deceive
+no one.
+
+  _Every light can be extinguished.
+  The intellect is a light.
+  Therefore it can be extinguished_.
+
+Here it is at once clear that there are four terms in the syllogism,
+"light" being used both in a real and in a metaphorical sense. But if
+the sophism takes a subtle form, it is, of course, apt to mislead,
+especially where the conceptions which are covered by the same word
+are related, and inclined to be interchangeable. It is never subtle
+enough to deceive, if it is used intentionally; and therefore cases of
+it must be collected from actual and individual experience.
+
+It would be a very good thing if every trick could receive some short
+and obviously appropriate name, so that when a man used this or that
+particular trick, he could be at once reproached for it.
+
+I will give two examples of the homonymy.
+
+Example 1.--A.: "You are not yet initiated into the mysteries of the
+Kantian philosophy."
+
+B.: "Oh, if it's mysteries you're talking of, I'll have nothing to do
+with them."
+
+Example 2.--I condemned the principle involved in the word _honour_
+as a foolish one; for, according to it, a man loses his honour by
+receiving an insult, which he cannot wipe out unless he replies with a
+still greater insult, or by shedding his adversary's blood or his own.
+I contended that a man's true honour cannot be outraged by what he
+suffers, but only and alone by what he does; for there is no saying
+what may befall any one of us. My opponent immediately attacked
+the reason I had given, and triumphantly proved to me that when a
+tradesman was falsely accused of misrepresentation, dishonesty, or
+neglect in his business, it was an attack upon his honour, which in
+this case was outraged solely by what he suffered, and that he could
+only retrieve it by punishing his aggressor and making him retract.
+
+Here, by a homonymy, he was foisting _civic honour_, which is
+otherwise called _good name_, and which may be outraged by libel and
+slander, on to the conception of _knightly honour_, also called _point
+d'honneur_, which may be outraged by insult. And since an attack on
+the former cannot be disregarded, but must be repelled by public
+disproof, so, with the same justification, an attack on the latter
+must not be disregarded either, but it must be defeated by still
+greater insult and a duel. Here we have a confusion of two essentially
+different things through the homonymy in the word _honour_, and a
+consequent alteration of the point in dispute.
+

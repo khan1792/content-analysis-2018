@@ -1,0 +1,259 @@
+
+                        Hegel's Philosophy of Mind
+
+                                    By
+
+                      Georg Wilhelm Friedrich Hegel
+
+                             T
+
+
+
+PREFACE.
+
+
+I here offer a translation of the third or last part of Hegel's
+encyclopaedic sketch of philosophy,--the _Philosophy of Mind_. The volume,
+like its subject, stands complete in itself. But it may also be regarded
+as a supplement or continuation of the work begun in my version of his
+_Logic_. I have not ventured upon the _Philosophy of Nature_ which lies
+between these two. That is a province, to penetrate into which would
+require an equipment of learning I make no claim to,--a province, also, of
+which the present-day interest would be largely historical, or at least
+bound up with historical circumstances.
+
+The translation is made from the German text given in the Second Part of
+the Seventh Volume of Hegel's Collected Works, occasionally corrected by
+comparison with that found in the second and third editions (of 1827 and
+1830) published by the author. I have reproduced only Hegel's own
+paragraphs, and entirely omitted the _Zusätze_ of the editors. These
+addenda--which are in origin lecture-notes--to the paragraphs are, in the
+text of the Collected Works, given for the first section only. The
+psychological part which they accompany has been barely treated elsewhere
+by Hegel: but a good popular exposition of it will be found in Erdmann's
+_Psychologische Briefe_. The second section was dealt with at greater
+length by Hegel himself in his _Philosophy of Law_ (1820). The topics of
+the third section are largely covered by his lectures on Art, Religion,
+and History of Philosophy.
+
+I do not conceal from myself that the text offers a hard nut to crack. Yet
+here and there, even through the medium of the translation, I think some
+light cannot fail to come to an earnest student. Occasionally, too, as,
+for instance, in §§ 406, 459, 549, and still more in §§ 552, 573, at the
+close of which might stand the words _Liberavi animam meam_, the writer
+really "lets himself go," and gives his mind freely on questions where
+speculation comes closely in touch with life.
+
+In the _Five Introductory Essays_ I have tried sometimes to put together,
+and sometimes to provide with collateral elucidation, some points in the
+Mental Philosophy. I shall not attempt to justify the selection of
+subjects for special treatment further than to hope that they form a more
+or less connected group, and to refer for a study of some general
+questions of system and method to my _Prolegomena to the Study of Hegel's
+Philosophy_ which appear almost simultaneously with this volume.
+
+OXFORD,
+_December, 1893_.
+
+
+
+
+
+FIVE INTRODUCTORY ESSAYS IN PSYCHOLOGY AND ETHICS.
+
+
+
+
+Essay I. On The Scope Of A Philosophy Of Mind.
+
+
+The art of finding titles, and of striking out headings which catch the
+eye or ear, and lead the mind by easy paths of association to the subject
+under exposition, was not one of Hegel's gifts. A stirring phrase, a vivid
+or picturesque turn of words, he often has. But his lists of contents,
+when they cease to be commonplace, are apt to run into the bizarre and the
+grotesque. Generally, indeed, his rubrics are the old and (as we may be
+tempted to call them) insignificant terms of the text-books. But, in
+Hegel's use of them, these conventional designations are charged with a
+highly individualised meaning. They may mean more--they may mean less--than
+they habitually pass for: but they unquestionably specify their meaning
+with a unique and almost personal flavour. And this can hardly fail to
+create and to disappoint undue expectations.
+
+
+
+(i.) Philosophy and its Parts.
+
+
+Even the main divisions of his system show this conservatism in
+terminology. The names of the three parts of the Encyclopaedia are, we may
+say, non-significant of their peculiar contents. And that for a good
+reason. What Hegel proposes to give is no novel or special doctrine, but
+the universal philosophy which has passed on from age to age, here
+narrowed and there widened, but still essentially the same. It is
+conscious of its continuity and proud of its identity with the teachings
+of Plato and Aristotle.
+
+The earliest attempts of the Greek philosophers to present philosophy in a
+complete and articulated order--attempts generally attributed to the
+Stoics, the schoolmen of antiquity--made it a tripartite whole. These three
+parts were Logic, Physics, and Ethics. In their entirety they were meant
+to form a cycle of unified knowledge, satisfying the needs of theory as
+well as practice. As time went on, however, the situation changed: and if
+the old names remained, their scope and value suffered many changes. New
+interests and curiosities, due to altered circumstances, brought other
+departments of reality under the focus of investigation besides those
+which had been primarily discussed under the old names. Inquiries became
+more specialised, and each tended to segregate itself from the rest as an
+independent field of science. The result was that in modern times the
+territory still marked by the ancient titles had shrunk to a mere phantom
+of its former bulk. Almost indeed things had come to such a pass that the
+time-honoured figures had sunk into the misery of _rois fainéants_; while
+the real business of knowledge was discharged by the younger and less
+conventional lines of research which the needs and fashions of the time
+had called up. Thus Logic, in the narrow formal sense, was turned into an
+"art" of argumentation and a system of technical rules for the analysis
+and synthesis of academical discussion. Physics or Natural Philosophy
+restricted itself to the elaboration of some metaphysical postulates or
+hypotheses regarding the general modes of physical operation. And Ethics
+came to be a very unpractical discussion of subtleties regarding moral
+faculty and moral standard. Meanwhile a theory of scientific method and of
+the laws governing the growth of intelligence and formation of ideas grew
+up, and left the older logic to perish of formality and inanition. The
+successive departments of physical science, each in turn asserting its
+independence, finally left Natural Philosophy no alternative between
+clinging to its outworn hypotheses and abstract generalities, or
+identifying itself (as Newton in his great book put it) with the
+_Principia Mathematica_ of the physical sciences. Ethics, in its turn, saw
+itself, on one hand, replaced by psychological inquiries into the
+relations between the feelings and the will and the intelligence; while,
+on the other hand, a host of social, historical, economical, and other
+researches cut it off from the real facts of human life, and left it no
+more than the endless debates on the logical and metaphysical issues
+involved in free-will and conscience, duty and merit.
+
+It has sometimes been said that Kant settled this controversy between the
+old departments of philosophy and the new branches of science. And the
+settlement, it is implied, consisted in assigning to the philosopher a
+sort of police and patrol duty in the commonwealth of science. He was to
+see that boundaries were duly respected, and that each science kept
+strictly to its own business. For this purpose each branch of philosophy
+was bound to convert itself into a department of criticism--an examination
+of first principles in the several provinces of reality or experience--with
+a view to get a distinct conception of what they were, and thus define
+exactly the lines on which the structures of more detailed science could
+be put up solidly and safely. This plan offered tempting lines to
+research, and sounded well. But on further reflection there emerge one or
+two difficulties, hard to get over. Paradoxical though it may seem, one
+cannot rightly estimate the capacity and range of foundations, before one
+has had some familiarity with the buildings erected upon them. Thus you
+are involved in a circle: a circle which is probably inevitable, but which
+for that reason it is well to recognise at once. Then--what is only another
+way of saying the same thing--it is impossible to draw an inflexible line
+between premises of principle and conclusions of detail. There is no spot
+at which criticism can stop, and, having done its business well, hand on
+the remaining task to dogmatic system. It was an instinctive feeling of
+this implication of system in what professed only to be criticism which
+led the aged Kant to ignore his own previous professions that he offered
+as yet no system, and when Fichte maintained himself to be erecting the
+fabric for which Kant had prepared the ground, to reply by the
+counter-declaration that the criticism was the system--that "the curtain
+was the picture."
+
+The Hegelian philosophy is an attempt to combine criticism with system,
+and thus realise what Kant had at least foretold. It is a system which is
+self-critical, and systematic only through the absoluteness of its
+criticism. In Hegel's own phrase, it is an immanent and an incessant
+dialectic, which from first to last allows finality to no dogmatic rest,
+but carries out Kant's description of an Age of Criticism, in which
+nothing, however majestic and sacred its authority, can plead for
+exception from the all-testing _Elenchus_. Then, on the other hand, Hegel
+refuses to restrict philosophy and its branches to anything short of the
+totality. He takes in its full sense that often-used phrase--the Unity of
+Knowledge. Logic becomes the all-embracing research of "first
+principles,"--the principles which regulate physics and ethics. The old
+divisions between logic and metaphysic, between induction and deduction,
+between theory of reasoning and theory of knowledge,--divisions which those
+who most employed them were never able to show the reason and purpose
+of--because indeed they had grown up at various times and by "natural
+selection" through a vast mass of incidents: these are superseded and
+merged in one continuous theory of real knowledge considered under its
+abstract or formal aspect,--of organised and known reality in its
+underlying thought-system. But these first principles were only an
+abstraction from complete reality--the reality which nature has when
+unified by mind--and they presuppose the total from which they are derived.
+The realm of pure thought is only the ghost of the Idea--of the unity and
+reality of knowledge, and it must be reindued with its flesh and blood.
+The logical world is (in Kantian phrase) only the _possibility_ of Nature
+and Mind. It comes first--because it is a system of First Principles: but
+these first principles could only be elicited by a philosophy which has
+realised the meaning of a mental experience, gathered by interpreting the
+facts of Nature.
+
+Natural Philosophy is no longer--according to Hegel's view of it--merely a
+scheme of mathematical ground-work. That may be its first step. But its
+scope is a complete unity (which is not a mere aggregate) of the branches
+of natural knowledge, exploring both the inorganic and the organic world.
+In dealing with this endless problem, philosophy seems to be baulked by an
+impregnable obstacle to its progress. Every day the advance of
+specialisation renders any comprehensive or synoptic view of the totality
+of science more and more impossible. No doubt we talk readily enough of
+Science. But here, if anywhere, we may say there is no Science, but only
+sciences. The generality of science is a proud fiction or a gorgeous
+dream, variously told and interpreted according to the varying interest
+and proclivity of the scientist. The sciences, or those who specially
+expound them, know of no unity, no philosophy of science. They are content
+to remark that in these days the thing is impossible, and to pick out the
+faults in any attempts in that direction that are made outside their pale.
+Unfortunately for this contention, the thing is done by us all, and,
+indeed, has to be done. If not as men of science, yet as men--as human
+beings--we have to put together things and form some total estimate of the
+drift of development, of the unity of nature. To get a notion, not merely
+of the general methods and principles of the sciences, but of their
+results and teachings, and to get this not as a mere lot of fragments, but
+with a systematic unity, is indispensable in some degree for all rational
+life. The life not founded on science is not the life of man. But he will
+not find what he wants in the text-books of the specialist, who is obliged
+to treat his subject, as Plato says, "under the pressure of necessity,"
+and who dare not look on it in its quality "to draw the soul towards
+truth, and to form the philosophic intellect so as to uplift what we now
+unduly keep down(1)." If the philosopher in this province does his work
+but badly, he may plead the novelty of the task to which he comes as a
+pioneer or even an architect. He finds little that he can directly
+utilise. The materials have been gathered and prepared for very special
+aims; and the great aim of science--that human life may be made a higher,
+an ampler, and happier thing,--has hardly been kept in view at all, except
+in its more materialistic aspects. To the philosopher the supreme interest
+of the physical sciences is that man also belongs to the physical
+universe, or that Mind and Matter as we know them are (in Mr. Spencer's
+language) "at once antithetical and inseparable." He wants to find the
+place of Man,--but of Man as Mind--in Nature.
+
+If the scope of Natural Philosophy be thus expanded to make it the unity
+and more than the synthetic aggregate of the several physical sciences--to
+make it the whole which surpasses the addition of all their fragments, the
+purpose of Ethics has not less to be deepened and widened. Ethics, under
+that title, Hegel knows not. And for those who cannot recognise anything
+unless it be clearly labelled, it comes natural to record their censure of
+Hegelianism for ignoring or disparaging ethical studies. But if we take
+the word in that wide sense which common usage rather justifies than
+adopts, we may say that the whole philosophy of Mind is a moral
+philosophy. Its subject is the moral as opposed to the physical aspect of
+reality: the inner and ideal life as opposed to the merely external and
+real materials of it: the world of intelligence and of humanity. It
+displays Man in the several stages of that process by which he expresses
+the full meaning of nature, or discharges the burden of that task which is
+implicit in him from the first. It traces the steps of that growth by
+which what was no better than a fragment of nature--an intelligence located
+(as it seemed) in one piece of matter--comes to realise the truth of it and
+of himself. That truth is his ideal and his obligation: but it is
+also--such is the mystery of his birthright--his idea and possession.
+He--like the natural universe--is (as the _Logic_ has shown) a principle of
+unification, organisation, idealisation: and his history (in its ideal
+completeness) is the history of the process by which he, the typical man,
+works the fragments of reality (and such mere reality must be always a
+collection of fragments) into the perfect unity of a many-sided character.
+Thus the philosophy of mind, beginning with man as a sentient organism,
+the focus in which the universe gets its first dim confused expression
+through mere feeling, shows how he "erects himself above himself" and
+realises what ancient thinkers called his kindred with the divine.

@@ -1,0 +1,244 @@
+Section 
+1. Start with something x that is substantial and composite,
+and analyse it into its simpler elements; this process doesn’t
+come to an end until we reach a part that is not a whole
+·made up of simpler parts·, i.e. until we reach something
+simple. The opposite process of synthesising—·combining
+x with other substances·—doesn’t come to an end until
+we reach something that isn’t a part ·of anything bigger·,
+i.e. until we reach a world.
+In this exposition of the concept of a world, I shall not
+only attend to the marks appropriate to a distinct knowledge
+of the object but shall also give some attention to its two-fold
+origin in the nature of the mind. So the exposition may set
+an example that leads to a deeper insight into metaphysical
+method, which I see as well worth doing. For it is one
+thing to (a) employ an abstract notion of the intellect to get
+from a thought of the parts to a conception of the whole
+that is composed of them, and it is a quite different thing
+to (b) take this general notion ·of the composite whole· as
+a problem set by reason, and to try to chase it down by
+employing the sensitive faculty of knowing, i.e. representing
+it in the concrete by a distinct intuition. In (a) composition
+is secured through the class concept, if it’s the concept
+of a plurality of mutually related things; so this is work for
+universal ideas of the intellect. In (b) the endeavour is to
+attain the concept of the composite in time, generating it by
+successively adding part to part; and that is synthesis, a
+process that is subject to the laws of intuition. Similarly,
+given a substantial composite, we easily reach the idea of
+its simple [see Glossary] parts by stripping from the thought
+of it the intellectual notion of composition, because when
+composition is removed whatever is left is simple. But when
+the laws of intuitive knowledge are in play, it’s a different
+story: the only way to remove composition now is by a regress
+from the given whole to all its parts, this being an analysis
+that occurs in time. [Kant has here a difficult footnote about two
+kinds of analysis and a corresponding two kinds of synthesis. We don’t
+need this for what follows.]. . . . Thus, for analysis to be carried
+through to the point of yielding the concept of the simple, it
+must be brought to a conclusion in a finite and assignable
+time; and the same is true of a synthesis that is to be yield
+the concept of the whole.
+In a continuous quantum, however, one can’t get to the
+end of the regress from whole to parts; and in an infinite
+quantum one can’t get to the end of the progress from parts
+1  
+to whole. It follows that the analysis can’t be completed, nor
+can the synthesis: the laws of intuition won’t let the whole
+be represented completely as a composition ·of simple parts·,
+or the composite be represented as a totality. And so we get
+this situation:
+(1) It is often assumed that ‘unrepresentable’ means the
+same as ‘impossible’; and
+(2) the laws of intuitive knowledge clearly make it impossible to represent the concepts of continuity and
+infinitude;
+and so we find that
+(3) Many people reject these ·two· concepts ·because they
+think they’re impossible·.
+I am not here arguing in defence of these notions, rejected
+as they are (especially the concept of continuity) by many of
+the scholastics.1 But those who follow this highly perverse
+line of argument should be urgently warned that they are
+falling into a very serious error. Something that is
+opposed to the laws of understanding and reason
+is indeed impossible; but an object of pure reason which is
+merely not subject to the laws of intuitive cognition
+is not impossible. This disagreement between the sensitive
+and the intellectual faculties (more about those later) shows
+only this: when the mind receives •abstract ideas from the
+intellect, it often can’t pull them through into something
+•concrete and turn them into intuitions. But this subjective
+inability gives many people a false impression of some objective hindrance, and deceives them, if they aren’t careful, into
+taking the limits circumscribing the human mind for limits
+imposed by the very essence of things outside the mind.
+Furthermore, if substantial composites are given—
+whether through the testimony of the senses or in any other
+way—it’s easy to see, by an argument based on intellectual
+grounds, that both •simples and •a world are also given. . . .
+The notion of a world is not merely arbitrary, like a mathematical construct that has been invented only so as to
+deduce consequences from it. For when your mind is directed
+onto the concept of the composite, whether it’s engaged in
+•breaking it up into smaller bits or •putting it together with
+others, it demands and assumes in each of these procedures
+that there are limits at which it may find rest.
+2. The factors to be considered in the definition of a world
+are these:
+I. Matter, in a transcendental sense, i.e. the parts ·that the
+world is composed of·—I’ll assume that they are substances.
+[‘. . . in a transcendental sense’? Kant is here appealing to Aristotle’s
+distinction between ‘matter’ and ‘form’, i.e. between •what there is and
+1 Those who reject the actual mathematical infinite find that the rejection comes easily! (a) Some of them define infinite in such a way that it does
+rather easily yield contradictions. According to them:
+•an infinite quantum is one such that it’s impossible for any to be larger, and
+•the mathematical infinite is a how-manyness [see Glossary] than which a greater is impossible.
+But these define ‘maximum’ ·or ‘greatest’·, not ‘infinite’; and a greatest how-manyness is indeed impossible; and that’s how these people infer the
+impossibility of this ‘infinite’ that they have invented! (b) Others speak of an infinite how-manyness as an infinite number, and show that this is
+absurd, as it clearly is. But this is also fighting only with figments of the mind. If they had conceived the mathematical infinite [infinitum] as a
+•how-many that is greater than any •number; and if they had seen that any definite [definitum] concept of a how-many can be attained only by
+successively adding unit to unit and bringing this process to an end in a finite [finito] time; then they would have seen that things that don’t square
+with a certain law of human knowledge might be known by some non-human intellect that could see some how-manyness at a glance, with no need
+count it.
+2  
+•what it is like. In this context, ‘matter’ is used not in its everyday
+empirical sense, standing for •a certain kind of stuff, but rather in its
+‘transcendental’ sense, standing for •the things-or-stuff that the world is
+made of—the whatever-it-is that has the ‘form’.]
+It doesn’t matter whether my definition of ‘world’ squares
+with the word’s meaning in ordinary language, because what
+I am investigating is just the problem—arising according
+to the laws of reason—of •how a number of substances
+can coalesce into one, and •what brings it about that this
+one is not a part of anything else. ·I use ‘world’ to mean
+‘something that has parts and isn’t itself a part’, but that bit
+of terminology isn’t essential to my inquiry·. [Kant goes on
+to say that the ordinary-language meaning of ‘world’ does
+in fact square with his technical meaning for it. He skips
+through a few views about ‘worlds’ that are wrong when
+the word is taken in his sense and that ordinary thoughtful
+people would also think to be wrong. For example, Leibniz’s
+view that ‘each soul is a little world’.] A final point: I haven’t
+said anything about whether the substances that make up a
+world are contingent or necessary; nor do I follow the usual
+procedure of •building an answer to that question into my
+definition and then ·triumphantly· •extracting it again by
+‘argument’! I’ll show later on that the conditions I have laid
+down abundantly prove that the substances are contingent.
+II. Form, which consists in the co-ordination of substances—
+not in the subordination of them. Co-ordinates are mutually
+related as complements forming a whole; subordinates are
+related as •cause and effect or more generally as •ground
+and consequent. Co-ordination is reciprocal, and the same
+names are used for each of the related items—each of them
+refers to the other as determining it and being determined
+by it. In subordination the names are different for the two related items—one is spoken of purely in terms of •dependency,
+the other purely in terms of •causality. This co-ordination is
+conceived as real and objective, not as ideal and subjective,
+arising from someone’s arbitrarily choosing to think of some
+aggregate as a whole. By embracing a plurality ·in your
+thought· you can easily fashion a representation-of-a-whole,
+but it won’t be a representation of an ·actual objective· whole.
+The difference I am talking about is that between
+(a) a genuine objective world: an aggregate of substances
+that are held together by bonds of transeunt [see
+Glossary] causation linking them with one another, and
+(b) an aggregate of substances whose togetherness consists only in their being forced together by a unifying
+act of thought.
+[Kant speaks of (b) as involving a plurality of worlds held together in a
+single thought, but that must have been a slip of the pen.] Let’s be
+clear about (a): what constitutes the essential form of a
+world—the fact about it that is absolutely required for it
+to be a world—is not any set of facts about how transeunt
+causation plays out among the world’s parts. Those facts
+are all contingent; they concern what state the world is
+in, but are irrelevant to its status as a world. [The bold type
+of this next bit is explained in the note at the top of page 1.] What’s
+essential to the world qua world is there being some principle
+[see Glossary] that makes it possible for there to be transeunt
+causation among these substances—possible for these substances, though independent of one another so far as their
+•existence is concerned, to depend on one another for the
+•states they are in. Without such a principle, there couldn’t
+be transeunt force in the world.
+Because this form is essential to a world ·that has it·,
+it can’t be changed in any way. ·There are two reasons for
+this·. (i) it is secured by logic. In every change, some one
+thing goes from being F to being G. Note the need for a
+single thing to continue through the change. It’s the same
+with the world: through all its successive states it remains
+3  
+the same world, and must therefore keep the same basic
+·essential· form. (Don’t think it could remain the same just
+by the continuing existence of its parts; its identity requires
+that it keep the same characteristic composition.) Also (ii) if
+a world’s essence could change, that would mean that the
+basic internal principle of all the changes that occur in it
+would be opposed to itself, ·which is impossible·. . . . [Point (ii)
+is a striking echo of proposition 4 in Part III of Spinoza’s Ethics.]
+Those who see no need for this ·kind of· investigation
+have been led astray by the concepts of space and time.
+They see space and time as basic,. . . .and as sufficient—all
+by themselves, without any other principle entering the
+picture—to make it not merely •possible but •necessary for
+a number of existing things to be inter-related as parts
+constituting a whole. I’ll show later that these notions ·of
+space and time· don’t come from reason, and are ideas not of
+any •objectively real connections but of •phenomena. They
+do indeed tell us that there is some common principle holding
+everything together, but they don’t show us what it is.
+III. Allness, i.e. containing absolutely all the component
+parts. There’s a notion of relative allness [see Glossary] that
+we can apply to anything that has parts, even if it is itself
+a part of something bigger, e.g. thinking about all the parts
+of the Rock of Gibraltar. But when allness is applied to a
+world, the thought is of all things whatsoever. This absolute
+allness, though it looks like an everyday concept that it’s
+easy to understand,. . . .turns out on investigation to present
+the philosopher with a crucial problem. It’s hard to conceive
+how the the universe’s never-to-be completed series of states,
+running on to eternity, can be brought together into a whole
+that includes absolutely all changes. Indeed it follows from
+its very infinity that the series has no stopping-point; so no
+strung-out series of events can be given except as part of a
+further series. It follows that there’s no place here for all-in
+completeness, absolute totality. We can have the thought
+a single series containing all the things that are parts
+of anything,
+but the concept of a whole—·as distinct from the mere
+abstract concept of all·–seems to demand that all those
+things should be taken simultaneously; and in the present
+case that’s impossible. . . .
+You might think that the obstacle to the thought of
+a whole infinite series of items strung out through time
+doesn’t arise in the case of a simultaneous infinite, because
+that involves only the notion of all things at a single time.
+But ·that is not right·. The simultaneous infinite and the
+successive infinite stand or fall together. [Kant’s given reason
+for this amounts to saying: We can’t make sense of ‘an
+infinity of cubic yards of space right now’ if we can’t—and
+we can’t—make sense of the idea of tagging them all one by
+one. He continues:] The laying-out of a plurality—whether
+successive or simultaneous—rests on concepts of time. If
+you are looking for a way out of this thorny problem, bear in
+mind that it’s not a problem about the intellectual concept of
+whole, but only about the conditions of sensitive intuition. . . .
+4  
+Section II: The distinction between sensible things and intelligible things in general
+3. Your sensibility is your receptivity, ·your ability to be
+on the receiving end·, through which your mind can be
+affected in a certain way by the presence of some object.
+Your intelligence or rationality is the faculty through which
+you can represent things that aren’t of a kind that can
+come before your senses. The object of sensibility is the
+sensible; anything that can’t be known [see Glossary] except
+through intelligence is intelligible. The ancient philosophers
+called a sensible thing a phenomenon and an intelligible
+thing a noumenon. Knowledge that is subject to the laws of
+sensuality is sensitive; in so far as it is subject to the laws of
+intelligence it is intellectual or rational [see Glossary].
+4. Thus, the sensitive element in knowledge depends on
+your special character—on your being able to be changed by
+the presence of objects, and on what objects produce what
+changes in you. But any knowledge that isn’t affected by
+such subjective conditions—·i.e. that doesn’t vary according
+to what state you are in·—is ·entirely objective, meaning that
+it is· strictly and solely concerned with the object, ·i.e. whatever it is that the knowledge is knowledge about·. 
